@@ -64,7 +64,7 @@ Este proyecto está bajo la licencia [MIT](https://opensource.org/license/MIT).
 
 ---
 
-Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra [documentación técnica](Documentos\documentacion-tecnica.md).
+Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra [documentación técnica](Examen/Documentos/documentacion-tecnica.md).
 
 Organismos colaboradores:
 
