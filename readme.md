@@ -69,4 +69,5 @@ Para obtener más información sobre la aplicación y su funcionamiento interno,
 Organismos colaboradores:
 
 ![IES Miguel Herrero](Examen/img/logoIESMHP.png)
+
 ![Valdecilla](https://www.eiivaldecilla.es/wp-content/uploads/5525-nuevo-logo-valdecilla.jpg)
